@@ -40,7 +40,7 @@
         "convolver": {
             "input-gain": 0.0,
             "ir-width": 100,
-            "kernel-path": "/home/black_file/.config/easyeffects/irs/IRS.irs",
+            "kernel-path": "~/.config/easyeffects/irs/IRS.irs",
             "output-gain": 0.0
         },
         "gate": {
