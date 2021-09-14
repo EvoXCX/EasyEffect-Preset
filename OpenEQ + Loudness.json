@@ -1,11 +1,11 @@
 {
     "output": {
         "bass_enhancer": {
-            "amount": 3.5,
+            "amount": 3.0,
             "blend": 0.0,
             "floor": 20.0,
             "floor-active": false,
-            "harmonics": 8.5,
+            "harmonics": 8.499999999999998,
             "input-gain": 0.0,
             "output-gain": 0.0,
             "scope": 80.0
@@ -38,8 +38,8 @@
             "threshold": -10.0
         },
         "convolver": {
-            "input-gain": -2.0,
-            "ir-width": 85,
+            "input-gain": 0.0,
+            "ir-width": 100,
             "kernel-path": "/home/black_file/.config/easyeffects/irs/IRS.irs",
             "output-gain": 0.0
         },
